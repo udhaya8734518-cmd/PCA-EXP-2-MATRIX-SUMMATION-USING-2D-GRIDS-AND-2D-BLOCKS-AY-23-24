@@ -1,6 +1,4 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-
-<h3>AIM:</h3>
 <h3>ENTER YOUR NAME</h3>UDHAYA GIRI V
 <h3>ENTER YOUR REGISTER NO</h3>212225040475
 <h3>EX. NO</h3>2
@@ -264,4 +262,4 @@ SHOW YOUR OUTPUT HERE
 
 
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.058983 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.001878 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
